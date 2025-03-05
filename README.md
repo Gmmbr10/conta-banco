@@ -1,6 +1,6 @@
 # Banco Nacional Giovanne Monteiro
 
-O Banco Nacional Giovanne Monteiro é um projeto realizado durante o Bootcamp Bradesco Java Cloud Native, onde sua intenção é praticar a sintaxe básica do Java.
+O Banco Nacional Giovanne Monteiro é um projeto realizado durante o Bootcamp Bradesco Java Cloud Native, onde sua intenção é praticar a sintaxe básica do Java, criando um sistema de conta bancária.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
